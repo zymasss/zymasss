@@ -7,9 +7,17 @@ Hello, I'm Mathys Rosse! I'm a French data enthusiast who got into the field in 
   </a>
 </p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mathysrosse.pro@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathys-rosse-6a843925b/)
+<p align="center">
+  <b>Contact me here!</b>
+</p>
+<p align="center">
+  <span>mathysrosse.pro@gmail.com</span>
+</p>
+<p align="center">
+  <a href="mailto:mathysrosse.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 
 ## 🛠️ Skills:
