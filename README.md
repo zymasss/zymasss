@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://media.istockphoto.com/id/1056371988/fr/vectoriel/aucune-illustration-de-tv-signal-interf%C3%A9rence-signal-brouilleur-%C3%A9cran-tv-de-bruit.jpg?s=612x612&w=0&k=20&c=EwMCQNu4K7ozCU9TMYbHQQ30dVxG-7JWLHutrN5yq_A=" alt="Banner" width="100%" height="160px" />
-</p>
-
-
 # 💫 About Me:
 Hello, I'm Mathys Rosse ! I'm a French data enthusiast who got into the field in 2020 when I started my studies. Since then, I've been diving deeper into the subject and continuously learning more about it. I am self-taught and strive to become as skilled as possible while enjoying discovering new tools!<br><br>On my profile, you'll find some of the projects and learnings I've followed. Feel free to check out my website to learn more about me : 
 
