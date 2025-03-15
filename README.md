@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[URL_DE_LA_BANNIERE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Ffr%2Fillustrations%2Fvieille-t%25C3%25A9l%25C3%25A9&psig=AOvVaw23lOuGWtTVX1yZEJIELK9g&ust=1742161969937000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiwhp2JjYwDFQAAAAAdAAAAABAE)" alt="Banner" width="100%" />
+  <img src="https://media.istockphoto.com/id/1056371988/fr/vectoriel/aucune-illustration-de-tv-signal-interf%C3%A9rence-signal-brouilleur-%C3%A9cran-tv-de-bruit.jpg?s=612x612&w=0&k=20&c=EwMCQNu4K7ozCU9TMYbHQQ30dVxG-7JWLHutrN5yq_A=" alt="Banner" width="100%" />
 </p>
 
 
