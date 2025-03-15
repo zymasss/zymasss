@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="[URL_DE_LA_BANNIERE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Ffr%2Fillustrations%2Fvieille-t%25C3%25A9l%25C3%25A9&psig=AOvVaw23lOuGWtTVX1yZEJIELK9g&ust=1742161969937000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiwhp2JjYwDFQAAAAAdAAAAABAE)" alt="Banner" width="100%" />
+</p>
+
+
 # 💫 About Me:
-Hello, I'm Mathys Rosse! I'm a French data enthusiast who got into the field in 2020 when I started my studies. Since then, I've been diving deeper into the subject and continuously learning more about it. I am self-taught and strive to become as skilled as possible while enjoying discovering new tools!<br><br>On my profile, you'll find some of the projects and learnings I've followed. Feel free to check out my website to learn more about me: 
+Hello, I'm Mathys Rosse ! I'm a French data enthusiast who got into the field in 2020 when I started my studies. Since then, I've been diving deeper into the subject and continuously learning more about it. I am self-taught and strive to become as skilled as possible while enjoying discovering new tools!<br><br>On my profile, you'll find some of the projects and learnings I've followed. Feel free to check out my website to learn more about me : 
 
 <p align="center">
   <a href="https://zymasss.github.io/rosse-mathys.github.io/">
