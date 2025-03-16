@@ -8,7 +8,7 @@ Hello, I'm Mathys Rosse ! I'm a French data enthusiast who got into the field in
 </p>
 
 <p align="center">
-  <b>Contact me here!</b>
+  <b>Contact me here !</b>
 </p>
 <p align="center">
   <span>mathysrosse.pro@gmail.com</span>
